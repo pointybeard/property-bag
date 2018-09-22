@@ -1,0 +1,27 @@
+{
+    "name": "pointybeard/property-bag",
+    "type": "library",
+    "description": "Set of classes for managing key/value pairs.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alannah Kearney",
+            "email": "hi@alannahkearney.com",
+            "homepage": "http://alannahkearney.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.6"
+    },
+    "support": {
+      "issues": "https://github.com/pointybeard/property-bag/issues",
+      "wiki": "https://github.com/pointybeard/property-bag/wiki"
+    },
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "pointybeard\\PropertyBag\\": "src/"
+        }
+    }
+}
