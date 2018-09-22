@@ -11,7 +11,7 @@ Simplifies the task of storing key/value pairs.
 
 ## Installation
 
-Symphony Class Mapper is installed via [Composer](http://getcomposer.org/). To install, use `composer require pointybeard/property-bag` or add `"pointybeard/property-bag": "~1.0"` to your `composer.json` file.
+Property Bag is installed via [Composer](http://getcomposer.org/). To install, use `composer require pointybeard/property-bag` or add `"pointybeard/property-bag": "~1.0"` to your `composer.json` file.
 
 # Usage Example
 
@@ -68,4 +68,4 @@ We encourage you to contribute to this project. Please check out the [Contributi
 
 ## License
 
-"Symphony Section Class Mapper" is released under the [MIT License](http://www.opensource.org/licenses/MIT).
+"Property Bag" is released under the [MIT License](http://www.opensource.org/licenses/MIT).
