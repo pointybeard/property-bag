@@ -33,10 +33,10 @@ class Property {
         if($this->value instanceof PropertyBag) {
             // @todo: handle a property that contains a PropertyBag
             $result = "";
-        }  else {
+        } else {
             $result = $this->value;
         }
 
-        return $result;
+        return (string)$result;
     }
 }
